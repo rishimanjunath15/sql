@@ -1,0 +1,17 @@
+ table_name = student_table1
+ database_name =   student_database
+
+
+SELECT *
+FROM student_table 
+
+SELECT first_name,second_name
+FROM student_table;
+
+
+
+
+
+
+
+
